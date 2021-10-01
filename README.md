@@ -2,7 +2,7 @@
 
 This is a sample README file. It will show up on the github homepage for the project.
 
-You can format it with markdown (I don't usually).
+You can format it with markdown.
 
 You should describe the project at a high level.
 
