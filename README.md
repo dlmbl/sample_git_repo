@@ -21,3 +21,4 @@ Git is an incredibly useful tool for collaborating with others and keeping your 
 This is a change.
 another change. With a newline
 
+Caroline's change
