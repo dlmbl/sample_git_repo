@@ -19,3 +19,5 @@ The requirements file specifies the packages that are required to run your code.
 Git is an incredibly useful tool for collaborating with others and keeping your own work organized. There are in-depth and interactive courses for git available online if you would like more information, but as a short introduction take a look at [this guide](http://rogerdudler.github.io/git-guide/).
 
 This is a change.
+
+Caroline's change
