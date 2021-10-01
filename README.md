@@ -13,3 +13,7 @@ There is a data directory in this repository. You NEVER COMMIT DATA to github (g
 ## requirements.txt
 
 The requirements file specifies the packages that are required to run your code. You can use it to configure a new conda environment by running `pip install requirements.txt`
+
+## Using git
+
+Git is an incredibly useful tool for collaborating with others and keeping your own work organized. There are in-depth and interactive courses for git available online if you would like more information, but as a short introduction take a look at [this guide](http://rogerdudler.github.io/git-guide/).
